@@ -2,7 +2,7 @@
 
 Repositório criado para registrar meu progresso e consolidar os aprendizados práticos adquiridos na plataforma interativa SQLBolt. O foco é dominar a construção de consultas em bancos de dados relacionais.
 
-## 🏁 Progresso Atual: Lição 8 / 19
+## 🏁 Progresso Atual: Lição 9 / 19
 
 ---
 
@@ -24,8 +24,8 @@ Até o momento, os seguintes tópicos foram estudados e praticados através dos 
 
 ## 🚀 Próximos Passos (Em Andamento)
 
-* [ ] **SQL Lesson 8: A short note on NULLs** 👈 *Atual de onde estou recomeçando*
-* [ ] SQL Lesson 9: Queries with expressions
+* [x] [SQL Lesson 8: A short note on NULLs](https://sqlbolt.com/lesson/select_queries_with_nulls) 
+* [ ] [**SQL Lesson 9: Queries with expressions**](https://sqlbolt.com/lesson/select_queries_with_expressions)  👈 *Atual*
 * [ ] SQL Lesson 10 & 11: Queries with aggregates
 * [ ] SQL Lesson 12: Order of execution of a Query
-* [ ] Lições de manipulação de dados: `INSERT`, `UPDATE`, `DELETE
+* [ ] Lições de manipulação de dados: `INSERT`, `UPDATE`, `DELETE`
